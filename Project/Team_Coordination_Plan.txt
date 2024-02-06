@@ -1,0 +1,12 @@
+1. We will be using following platforms to communicate:
+	1) Microsoft Teams
+	2) Zoom video calls (Tuesday/Wednesday at 2pm)
+  	3) Emails to inform the team on major feature implementations or issues, so that others can quickly respond or investigate that.
+	4) We will be using NMSU outlook calendar to schedule zoom meetings.
+	Team’s approval: 1) We have agreed to at least acknowledge each other on teams as soon as possible. The response will not be delayed for more than 24 hours. 2) We all have Microsoft teams, Zoom and Outlook installed in our machines. We all are using accurate contact information on these platforms. 
+
+2. We will be using GitHub to manage the project and use the pull requests to get the team review before committing to master branch.
+	Team’s approval: 1) We will be discussing the current progress/upcoming week’s plan on the project in every weekly meeting. We will also be helping each other in resolving the technical issues (if there will be any) in the weekly meeting. In person meeting can be done in agreement at least before 2 days. 2) We all have active GitHub accounts.
+
+3. We have decided to use MAX 8 for the project. We will be using Google Jamboard to discuss project design.
+	Team’s status: 1) We have installed the Max 8 trial version for now and we will be installing the paid version in next week. 2) We all have access to the google jamboard 
